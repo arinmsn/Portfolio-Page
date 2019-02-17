@@ -1,8 +1,10 @@
 # Bootstrap Portfolio
 
-Welcome!
+**Welcome!**
 
-This will be temporary landing portfolio page until I am ready to export the content elsewhere. Take a moment to visit the [live page](update link here) to learn more about me. 
+This will be temporary landing portfolio page until I am ready to export the content elsewhere. Take a moment to visit the [live page](https://arinmsn.github.io/Portfolio-Page/) to learn more about me. 
+
+The blog link is not active yet.
 
 
 
