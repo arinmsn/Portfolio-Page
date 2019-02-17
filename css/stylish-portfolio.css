@@ -10,6 +10,10 @@ html {
   height: 100%;
 }
 
+/* h1 {
+  font-family: 'Pacifico', cursive;
+} */
+
 body {
   font-family: 'Source Sans Pro';
 }
@@ -324,9 +328,15 @@ footer.footer .social-link:hover {
   text-decoration: none;
 }
 
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
 a {
   color: #1D809F;
 }
+
 
 a:hover, a:focus, a:active {
   color: #155d74;
